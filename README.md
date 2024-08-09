@@ -1,6 +1,6 @@
 # Digit-Recognizer-Kaggle-competition-
 
-The goal of goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. 
+The goal of project is to correctly identify digits from a dataset of tens of thousands of handwritten images. 
 MNIST dataset of handwritten images was used.
 Convolutional Neural Network was utilized in the classification task.
 Model Accuracy of 99.91%
